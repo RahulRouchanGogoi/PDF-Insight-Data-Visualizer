@@ -58,7 +58,7 @@ Download the Demonstration PDF (https://drive.google.com/file/d/1zmQJGDxMqPjzgfG
 
 # Screenshots
 
-1.![Interface_Upload_View](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Interface_Upload_View.png)
+1.Interface_Upload_View ![Interface_Upload_View](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Interface_Upload_View.png)
 
 2.![Text_Extraction_and_Download](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Text_Extraction_and_Download.png)
 
