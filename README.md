@@ -28,7 +28,7 @@ Allows users to upload a PDF document to extract text, analyze content, and gene
 * jsPDF: Exporting chart as PDF files.
 
 
-## Code Structure
+# Code Structure
 
 * index.html: Main HTML structure for the user interface.
 * style.css: Styling for a visually appealing and centered layout.
