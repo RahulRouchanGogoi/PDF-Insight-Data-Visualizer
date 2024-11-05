@@ -90,6 +90,6 @@ Download the [Demonstration PDF](https://drive.google.com/file/d/1zmQJGDxMqPjzgf
 ![Demo Link](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/PDF%20Insight%20%26%20Data%20Visualizer.gif)  
 [Live Demonstration](https://rahulrouchangogoi.github.io/PDF-Insight-Data-Visualizer/)
 
-## 🔗 Links
+## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
