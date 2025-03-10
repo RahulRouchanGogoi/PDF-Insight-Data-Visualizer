@@ -87,8 +87,9 @@ Download the [Demonstration PDF](https://drive.google.com/file/d/1zmQJGDxMqPjzgf
 
 ## Demo
 
-![Demo Link](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/PDF%20Insight%20%26%20Data%20Visualizer.gif)  
-[Live Demonstration](https://rahulrouchangogoi.github.io/PDF-Insight-Data-Visualizer/)
+![Demo Link](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/PDF%20Insight%20%26%20Data%20Visualizer.gif)
+![Scan to launch](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/QR.png)
+[Click to launch](https://rahulrouchangogoi.github.io/PDF-Insight-Data-Visualizer/) 
 
 ## Links
 
