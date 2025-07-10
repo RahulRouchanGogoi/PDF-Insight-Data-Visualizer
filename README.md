@@ -53,6 +53,14 @@ This tool is ideal for researchers, educators, and analysts working with survey 
 
 Download the [Demonstration PDF](https://drive.google.com/file/d/1zmQJGDxMqPjzgfGOufWQiNdE6XQ76EmA/view?usp=drive_link).
 
+
+**Scan to Launch**
+
+![Scan to launch](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/QR.png)
+
+[Click to launch](https://pdf-insight-data-visualizer.vercel.app/) 
+
+
 ## Screenshots
 
 1.Interface_Upload_View ![Interface_Upload_View](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Image1.png)  
@@ -85,15 +93,12 @@ Download the [Demonstration PDF](https://drive.google.com/file/d/1zmQJGDxMqPjzgf
 4. **Download Options**  
    - The generated age distribution chart can be downloaded as a PDF using jsPDF, allowing users to have a portable, visual summary of the age analysis.
 
+
 ## Demo
 
 ![Demo Link](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/PDF%20Insight%20%26%20Data%20Visualizer.gif)
 
-**Scan to Launch**
 
-![Scan to launch](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/QR.png)
-
-[Click to launch](https://rahulrouchangogoi.github.io/PDF-Insight-Data-Visualizer/) 
 
 ## Links
 
